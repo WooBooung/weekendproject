@@ -1,5 +1,4 @@
 # weekendproject
 study
 
-aaaaa
 bbb
